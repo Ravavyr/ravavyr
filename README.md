@@ -1,7 +1,5 @@
 ### Hi there 👋
-<style>
-h3{color:#f00; font-size:50px;}
-</style>
+
 <!--
 **Ravavyr/ravavyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
